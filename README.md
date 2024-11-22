@@ -34,8 +34,8 @@ https://drive.google.com/drive/folders/12RS82DE4s0FFmrGFFyhXo0PWeK-ZKkSp?usp=dri
 - Mejorar la planificación y puntualidad.
 - Aumentar la frecuencia de la comunicación con el equipo.
 - Tomar decisiones más rápidas en situaciones de incertidumbre.
-- 
-en que tuvo mal desempeño:
+  
+### en que tuvo mal desempeño:
 -no tenia la cominucacion correcta
 -faltaba poner mas atencion al proyecto navideño
 
