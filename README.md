@@ -21,6 +21,9 @@ enlace a mi drive
 https://drive.google.com/drive/folders/12RS82DE4s0FFmrGFFyhXo0PWeK-ZKkSp?usp=drive_link
 
 ## Coevaluacion 
+
+### Compañero Jorge Ivan
+
 ## 1. Cumplimiento de tareas 
  Jorge cumplió con las tareas asignadas en su mayoría, aunque hubo algunos pequeños retrasos. Mejorar la gestión del tiempo podría evitar estos contratiempos. Sugerencia: utilizar metas intermedias o recordatorios para asegurar la entrega puntual.
 
